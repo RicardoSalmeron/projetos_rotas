@@ -2,9 +2,9 @@ import React from 'react'
 
 const Sobre = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+        <h1>Sobre Nós</h1> 
+    </>
   )
 }
 
